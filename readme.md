@@ -15,17 +15,18 @@
 
 above is a authorized user with respective email and password and token
 
-token==eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYWdhdGlhemFkMjAwMUBnbWFpbC5jb20iLCJ1c2VySWQiOiI2NTYyMzQxNTNmYmE3MGI4MThlOWQwN2EiLCJpYXQiOjE3MDA5ODE5MDUsImV4cCI6MTcwMTg0NTkwNX0.vXdCN2M6piKYsdDRIwWz4k4kjN-dfB7mcrf6zZG8YaE
 
-***HOW TO INCLUDE THIS TOKEN IN HEADER***
+## HOW TO INCLUDE THIS TOKEN IN HEADER
 
-KEY:authorization
-VALUE : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYWdhdGlhemFkMjAwMUBnbWFpbC5jb20iLCJ1c2VySWQiOiI2NTYyMzQxNTNmYmE3MGI4MThlOWQwN2EiLCJpYXQiOjE3MDA5NDA3NjIsImV4cCI6MTcwMDk1ODc2Mn0.DL4sI3n7h91DvzEcApvR-fF9N-9KQfdNGOLwTHYgANE .               
-*******************************************TESTING THE API**********************************************
+### KEY:authorization
+### VALUE : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYWdhdGlhemFkMjAwMUBnbWFpbC5jb20iLCJ1c2VySWQiOiI2NTYyMzQxNTNmYmE3MGI4MThlOWQwN2EiLCJpYXQiOjE3MDA5NDA3NjIsImV4cCI6MTcwMDk1ODc2Mn0.DL4sI3n7h91DvzEcApvR-fF9N-9KQfdNGOLwTHYgANE .   
+
+## TESTING THE API
 
 ***USERS ROUTES***
 
-*** \\POST REQUEST\\  SIGNUP ROUTE URL--->(localhost:3000/users/signup/) :
+### POST ROUTES  
+SIGNUP ROUTE URL(localhost:3000/users/signup/) :
 This is a route to create a new user.
 Input format: 
                 {
