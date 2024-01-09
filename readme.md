@@ -5,7 +5,7 @@
 
 ## AUTHORIZATION
 
-This api contains authorization which allows only authorized  users to access proteted api endpoints.
+### This api contains authorization which allows only authorized  users to access proteted api endpoints.
 *For testing 
 {
     "email":"pragatiazad2001@gmail.com",
