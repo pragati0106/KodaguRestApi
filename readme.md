@@ -17,17 +17,3 @@ This API includes authorization to allow only authorized users to access protect
     "password": "1111",
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...."
 }
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
