@@ -7,10 +7,10 @@
 
 ### This api contains authorization which allows only authorized  users to access proteted api endpoints.
 #### For testing 
-{
-    #### "email":"pragatiazad2001@gmail.com",
-    #### "password": "1111"
-    #### "token": #### "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYWdhdGlhemFkMjAwMUBnbWFpbC5jb20iLCJ1c2VySWQiOiI2NTYyMzQxNTNmYmE3MGI4MThlOWQwN2EiLCJpYXQiOjE3MDA5ODE5MDUsImV4cCI6MTcwMTg0NTkwNX0.vXdCN2M6piKYsdDRIwWz4k4kjN-#### dfB7mcrf6zZG8YaE"
+### {
+     "email":"pragatiazad2001@gmail.com",
+     "password": "1111"
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYWdhdGlhemFkMjAwMUBnbWFpbC5jb20iLCJ1c2VySWQiOiI2NTYyMzQxNTNmYmE3MGI4MThlOWQwN2EiLCJpYXQiOjE3MDA5ODE5MDUsImV4cCI6MTcwMTg0NTkwNX0.vXdCN2M6piKYsdDRIwWz4k4kjN-= dfB7mcrf6zZG8YaE"
 }
 above is a authorized user with respective email and password and token
 
