@@ -16,4 +16,15 @@ This API includes authorization to allow only authorized users to access protect
     "email": "pragatiazad2001@gmail.com",
     "password": "1111",
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...."
+}```
+
+## 2. Authorization
+
+This API includes authorization to allow only authorized users to access protected API endpoints. For testing purposes, use the following authorized user credentials:
+
+```json
+{
+    "email": "pragatiazad2001@gmail.com",
+    "password": "1111",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...."
 }
