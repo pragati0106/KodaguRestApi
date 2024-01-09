@@ -1,9 +1,10 @@
-## Setting up API
-1 Download files from git repo.
-2 run command "npm install" to install all dependencies.
-3 run command "node index.js" to start the api.
+# Setting up API
+### 1 Download files from git repo.
+### 2 run command "npm install" to install all dependencies.
+### 3 run command "node index.js" to start the api.
 
-****************************************AUTHORIZATION**************************************************
+## AUTHORIZATION
+
 This api contains authorization which allows only authorized  users to access proteted api endpoints.
 *For testing 
 {
